@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MainBody{
+    border: solid; 
+    width: 1000px;
+    height: 600px;
+    justify-content: center;
+    background-color:blueviolet;
+    margin-left: 20%;
+    margin-top: 3%;
+    
+
+}
+
+
+/* .upperlayer{
+    border: solid; 
+    width: 1000px;
+    height: 100px;
+    justify-content: center;
+    background-color:blueviolet;
+} */
+
+.subBody{    
+    /* border: solid; */
+    width: 500px;
+    height: 50px;
+    /* color: blue; */
+    background-color: bisque;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 25%;
+    margin-top: 5%;
+}  
+
+.display{
+    /* border: solid; */
+    width: 500px;
+    height: 50px;
+    /* color: blue; */
+    display: flex;
+    background-color: bisque; 
+    justify-content:center; 
+    justify-items: center;
+    margin-left: 5%;
+    margin-top: 10%;
+}  
+.firstline{
+    border: solid;
+    width: 1000px;
+    height: 50px;
+    /* color: blue; */
+    display: flex;
+    /* background-color: green; */
+    justify-content: space-around;
+}
+#studybible{
+    /* border: solid; */
+    width: 200px;
+    height: 50px;
+    background-color:bisque;
+    justify-items: center;
+    margin-top: display;
+    margin-right: auto;
+
+}
+
+button{
+    /* border: solid; */
+    width: 200px;
+    height: 50px;
+    background-color: rgb(200, 0, 0);
+    justify-items: center;
+    margin-top: display;
+    cursor: pointer;
+}       
+
+label{
+    /* margin-right:500px; */
+    justify-items: flex-start;
+}
+#studycheckbox{
+    /* justify-content: left; */
+    border: solid;
+    /* margin-right: auto; */
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.secondline{
+    /* border: solid; */
+    width: 1000px;
+    height: 50px;
+    color: blue;
+    display: flex;
+    /* background-color: grey; */
+    justify-content: space-around;
+}
+
+#readbook{
+    /* border: solid; */
+    width: 200px;
+    height: 50px;
+    background-color: bisque;
+    justify-items: center;
+    margin-top: display;
+    margin-right: auto;
+
+}
+
+.thirdline{
+    /* border: solid; */
+    width: 1000px;
+    height: 50px;
+    color: blue;
+    display: flex;
+    /* background-color: red; */
+    justify-content: space-around;
+}
+
+#makecalls{
+    /* border: solid; */
+    width: 200px;
+    height: 50px;
+    background-color: bisque;
+    justify-items: center;
+    margin-top: display;
+    margin-right: auto;
+
+}
+
+.forthline{
+    /* border: solid; */
+    width: 1000px;
+    height: 50px;
+    color: blue;
+    display: flex;
+    /* background-color: red; */
+    justify-content: space-around;
+}
+
+#watchmovie{
+    border: solid; 
+    width: 200px;
+    height: 50px;
+    background-color: bisque;
+    justify-items: center;
+    margin-top: display;
+    margin-right: auto;
+
+}
+
+.fithline{
+    /* border: solid; */
+    width: 1000px;
+    height: 50px;
+    color: blue;
+    display: flex;
+    /* background-color: red; */
+    justify-content: space-around;
+}
+
+#takeawalk{
+    border: solid;
+    width: 200px;
+    height: 50px;
+    background-color: bisque;
+    justify-items: center;
+    margin-top: display;
+    margin-right: auto;
+
+}
+
+
+.add{
+    /* border: solid; */
+    width: 500px;
+    height: 50px;
+    color: blue;
+    display: flex;
+     background-color: bisque; 
+    justify-content:center; 
+    justify-items: center;
+    margin-left: 5%;
+    margin-top: 10%;
+}  
+#addbutton{
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    cursor: pointer;
+}
